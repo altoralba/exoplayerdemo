@@ -6,7 +6,7 @@ An ExoPlayer sample written in Java (Android). It currently supports on/off volu
 >
 >ExoPlayer supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption, which are not supported by MediaPlayer. It's designed to be easy to customize and extend.
 
-More info about ExoPlayer can be found [here](https://developer.android.com/guide/topics/media/exoplayer).
+More info about ExoPlayer can be found [here](https://exoplayer.dev/hello-world.html).
 
 ## Usage
 If you are planning to use a different source, you can change the string from the following:
